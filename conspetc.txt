@@ -1,0 +1,7 @@
+git init - инициализация репозитория
+git status - проверка состояния репозитория
+git add "file" - добавление файлов
+git add .
+git commit -m "сообщение" - фиксация события
+git remote add origin "ссылка на удаленный репозиторий"
+git push origin master - отправка изменения в репозиторий
